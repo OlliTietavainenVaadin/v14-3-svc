@@ -1,0 +1,3 @@
+:host([theme~="custom-upload"]) slot[name="file-list"] {
+    display: none;
+}
